@@ -14,7 +14,7 @@
     <ImageButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/backButton"
+        android:id="@+id/mybackButton"
         android:src="@drawable/left"
         android:background="@null"
         android:contentDescription="@string/back_button_description"
